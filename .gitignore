@@ -1,0 +1,6 @@
+.DS_Store
+.now
+node_modules
+.next
+*.log
+public/manifest.json

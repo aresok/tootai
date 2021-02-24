@@ -1,0 +1,7 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background: #4c6ef5;
+  color: #edf2ff;
+}

@@ -1,0 +1,19 @@
+.btn {
+  border: none;
+  appearance: none;
+  padding: 10px;
+  background: transparent;
+  color: #4c6ef5;
+}
+
+.btn[type="button"]:disabled {
+  color: #ccc;
+}
+
+.small {
+  padding: 0;
+}
+
+.danger {
+  color: rgba(255, 0, 0, 0.75);
+}
